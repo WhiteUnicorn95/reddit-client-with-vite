@@ -9,4 +9,4 @@ describe('Header', () => {
         const title = screen.getByRole('heading', { name: /My Reddit Reader/i }); // get title
         expect(title).toBeInTheDocument(); //verifies that the title is in the document
     });
-});git 
+});
