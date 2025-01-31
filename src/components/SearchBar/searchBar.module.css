@@ -1,0 +1,16 @@
+input{
+    border-radius: 1em;
+    border-style: none;
+    height: 2em;
+    padding: 1em;
+    margin-right: 1em;
+}
+
+button{
+    border-radius: 1em;
+    border-style: none;
+    height: 2em;
+    padding: 0 1em;
+    font-weight: bold;
+    color: #585656
+}
